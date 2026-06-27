@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**ZGTeam233/ZGTeam233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ZGTeam233/ZGTeam233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+我是 **ZGTeam233**， 或者叫 **wsnzg6**
+
+来访问我 *GitHub* 主页的，大概都是从 [*B站*](https://space.bilibili.com/1615672286) 或 
+[*抖音*](https://www.douyin.com/user/MS4wLjABAAAAqQ86UBIuMHTXNLXL7z8BxuTXvRalcNXxxvY4zp7If4QilPxiRvrHIaRUYoiD-KxC) 
+来的吧 ouo
+
+你们最想看的应该是这个项目
+
+[toText](https://github.com/ZGTeam233/toText)
+
+up高中生，没多少时间，请谅解一下哈 awa
