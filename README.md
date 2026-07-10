@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 [*抖音*](https://www.douyin.com/user/MS4wLjABAAAAqQ86UBIuMHTXNLXL7z8BxuTXvRalcNXxxvY4zp7If4QilPxiRvrHIaRUYoiD-KxC) 
 来的吧 ouo
 
-你们最想看的应该是这个项目 
-[toText](https://github.com/ZGTeam233/toText)
+你们最想看的应该是这些项目哈
 
-链接放着了，怕你们不会用
+[toText | 字符画/turtle绘画](https://github.com/ZGTeam233/toText)
+
+[HowAndroid | 如何开发一个 Android 应用源码](https://github.com/ZGTeam233/HowAndroid)
+
+链接放这了，怕你们不会用
 
 up高中生，没多少时间，请谅解一下哈 awa
