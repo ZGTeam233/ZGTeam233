@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-新注册了 Gitee 账号
-
-[国内用户？访问 Gitee 吧](https://gitee.com/zgteam233)
+新注册了 Gitee 账号 ZGTeam233。[国内用户？下载慢？访问 Gitee 吧！](https://gitee.com/zgteam233)
 
 我是 **ZGTeam233**， 或者叫 **wsnzg6**
 
