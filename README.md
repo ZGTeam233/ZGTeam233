@@ -13,17 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+新注册了 Gitee 账号
+
+[国内用户？访问 Gitee 吧](https://gitee.com/zgteam233)
+
 我是 **ZGTeam233**， 或者叫 **wsnzg6**
 
 来访问我 *GitHub* 主页的，大概都是从 [*B站*](https://space.bilibili.com/1615672286) 或 
 [*抖音*](https://www.douyin.com/user/MS4wLjABAAAAqQ86UBIuMHTXNLXL7z8BxuTXvRalcNXxxvY4zp7If4QilPxiRvrHIaRUYoiD-KxC) 
 来的吧 ouo
 
-你们最想看的应该是这些项目哈
+你们最想看的应该是这个项目哈
 
 [toText | 字符画/turtle绘画](https://github.com/ZGTeam233/toText)
-
-[HowAndroid | 如何开发一个 Android 应用源码](https://github.com/ZGTeam233/HowAndroid)
 
 链接放这了，怕你们不会用
 
