@@ -24,8 +24,12 @@ Here are some ideas to get you started:
 来的吧 ouo
 
 你们最想看的应该是这些项目哈：
+
 [toText | 字符画/turtle绘画](https://github.com/ZGTeam233/toText)
+
 [synthpp | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp)
+
+[WT01 | 朋友让我做的crack](https://github.com/ZGTeam233/WT01)
 
 链接放这了，怕你们不会用
 
