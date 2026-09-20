@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 新项目! [synthpp | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp) 来看看
 
-我是 **ZGTeam233**， 或者叫 **wsnzg6**
+我是 **ZGTeam233**， 或者叫 **墨兼丹陵**
 
 来访问我 *GitHub* 主页的，大概都是从 [*B站*](https://space.bilibili.com/1615672286) 或 
 [*抖音*](https://www.douyin.com/user/MS4wLjABAAAAqQ86UBIuMHTXNLXL7z8BxuTXvRalcNXxxvY4zp7If4QilPxiRvrHIaRUYoiD-KxC) 
