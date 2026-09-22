@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [*抖音*](https://www.douyin.com/user/MS4wLjABAAAAqQ86UBIuMHTXNLXL7z8BxuTXvRalcNXxxvY4zp7If4QilPxiRvrHIaRUYoiD-KxC) 
 来的吧 ouo
 
-可以来看看我的个人博客哦: [https://zgteam233.github.io/furry/](https://zgteam233.github.io/furry/)
+可以来看看我的个人博客哦: [https://zgteam233.github.io/furry](https://zgteam233.github.io/furry)
 
 你们最想看的应该是这些项目哈：
 
