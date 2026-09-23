@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 新注册了 *Gitee* 账号 **ZGTeam233**。[国内用户？下载慢？访问 *Gitee* 吧！](https://gitee.com/zgteam233)
 
-新项目! [synthpp | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp) 来看看
+**新项目!** [**synthpp** | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp) 来看看
 
 我是 **ZGTeam233**， 或者叫 **墨兼丹陵**
 
@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 [*抖音*](https://www.douyin.com/user/MS4wLjABAAAAqQ86UBIuMHTXNLXL7z8BxuTXvRalcNXxxvY4zp7If4QilPxiRvrHIaRUYoiD-KxC) 
 来的吧 ouo
 
-可以来看看我的个人博客哦: [https://zgteam233.github.io/furry](https://zgteam233.github.io/furry)
+可以来看看我的**个人博客**哦: [https://zgteam233.github.io/furry](https://zgteam233.github.io/furry)
 
-你们最想看的应该是这些项目哈：
+你们最想看的应该是**这些项目**哈：
 
-[toText | 字符画/turtle绘画](https://github.com/ZGTeam233/toText)
+[**toText** | 字符画/turtle绘画](https://github.com/ZGTeam233/toText)
 
-[synthpp | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp)
+[**synthpp** | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp)
 
-[WT01 | 朋友让我做的crack](https://github.com/ZGTeam233/WT01)
+[**WT01** | 朋友让我做的crack](https://github.com/ZGTeam233/WT01)
 
-链接放这了，怕你们不会用
+链接放这了，**怕你们不会用**
 
-up高中生，没多少时间，请谅解一下哈 awa
+up**高中生**，没多少时间，请**谅解**一下哈 awa
