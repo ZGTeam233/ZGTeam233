@@ -42,3 +42,11 @@ Here are some ideas to get you started:
 ### 最后
 
 up**高中生**，没多少时间，请**谅解**一下哈 awa
+
+欢迎来扩列啊:
+
+- **QID** `qwsnzg6`
+- **微信** `wsnzg6_wechat`
+- **QQ群** (**帮朋友宣群**) `1126164116` // 来自 Evan
+
+也来看看我[**朋友的 GitHub**](https://github.com/FurryHuiYao) // 来自 晖曜
