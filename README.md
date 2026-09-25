@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 新注册了 *Gitee* 账号 **ZGTeam233**。[国内用户？下载慢？访问 *Gitee* 吧！](https://gitee.com/zgteam233)
 
-**新项目!** [**synthpp** | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp) 来看看
-
 ### 你好!
 
 我是 **ZGTeam233**， 或者叫 **墨兼丹陵**
@@ -31,11 +29,10 @@ Here are some ideas to get you started:
 
 你们最想看的应该是**这些项目**哈：
 
-[**toText** | 字符画/turtle绘画](https://github.com/ZGTeam233/toText)
-
-[**synthpp** | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp)
-
-[**WT01** | 朋友让我做的crack](https://github.com/ZGTeam233/WT01)
+- [**toText** | 字符画/turtle绘画](https://github.com/ZGTeam233/toText)
+- [**synthpp** | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp)
+- [**WT01** | 朋友让我做的crack](https://github.com/ZGTeam233/WT01)
+- [**moneyless** | 人请记账本](https://github.com/ZGTeam233/moneyless)
 
 链接放这了，**怕你们不会用**
 
