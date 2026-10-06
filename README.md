@@ -49,5 +49,5 @@ up**高中生**，没多少时间，请**谅解**一下哈 awa
 - **QQ群** (**帮朋友宣群**) `1126164116` // 来自 **Evan**
 
 ### 也来看看我朋友的 GitHub
-[**朋友A**](https://github.com/FurryHuiYao) // 来自 **晖曜**
-[**朋友B**](https://github.com/EyroIceDragon) // 来自 **好好的时间2**
+- [**朋友A**](https://github.com/FurryHuiYao) // 来自 **晖曜**
+- [**朋友B**](https://github.com/EyroIceDragon) // 来自 **好好的时间2**
