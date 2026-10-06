@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - [**synthpp** | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp)
 - [**WT01** | 朋友让我做的crack](https://github.com/ZGTeam233/WT01)
 - [**moneyless** | 人请记账本](https://github.com/ZGTeam233/moneyless)
-- [**Changed_More_Creatures** | 以下项目的分支](https://github.com/ZGTeam233/Changed_More_Creatures)
+- [**Changed_Creatures** | 以下项目的分支](https://github.com/ZGTeam233/Changed_Creatures)
   - [Changed_Creatures 模组](https://github.com/EyroIceDragon/Changed_Creatures)
 
 链接放这了，**怕你们不会用**
