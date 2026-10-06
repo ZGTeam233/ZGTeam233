@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 - [**synthpp** | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp)
 - [**WT01** | 朋友让我做的crack](https://github.com/ZGTeam233/WT01)
 - [**moneyless** | 人请记账本](https://github.com/ZGTeam233/moneyless)
-- [**Changed_More_Creatures** | EyroIceDragon/Changed_Creatures 模组的分支](https://github.com/ZGTeam233/Changed_More_Creatures)
+- [**Changed_More_Creatures** | 以下项目的分支](https://github.com/ZGTeam233/Changed_More_Creatures)
+  - [Changed_Creatures 模组](https://github.com/EyroIceDragon/Changed_Creatures)
 
 链接放这了，**怕你们不会用**
 
@@ -47,4 +48,6 @@ up**高中生**，没多少时间，请**谅解**一下哈 awa
 - **微信** `wsnzg6_wechat`
 - **QQ群** (**帮朋友宣群**) `1126164116` // 来自 **Evan**
 
-也来看看我[**朋友的 GitHub**](https://github.com/FurryHuiYao) // 来自 **晖曜**
+### 也来看看我朋友的 GitHub
+[**朋友A**](https://github.com/FurryHuiYao) // 来自 **晖曜**
+[**朋友B**](https://github.com/EyroIceDragon) // 来自 **好好的时间2**
