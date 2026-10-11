@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+为爱发电, 你我同行~ [点击此处**赏我一杯咖啡**啊](https://ifdian.net/a/zgteam233) // 来自**爱发电**提供的赞助渠道
+
 新注册了 *Gitee* 账号 **ZGTeam233**。[国内用户？下载慢？访问 *Gitee* 吧！](https://gitee.com/zgteam233)
 
 ### 你好!
