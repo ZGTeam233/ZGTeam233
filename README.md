@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - [**moneyless** | 人请记账本](https://github.com/ZGTeam233/moneyless)
 - [**Changed_Creatures** | 以下项目的分支](https://github.com/ZGTeam233/Changed_Creatures)
   - [Changed_Creatures 模组](https://github.com/EyroIceDragon/Changed_Creatures)
+- [**WIM** | "世界观隔离"机制])(https://github.com/ZGTeam233/Worldview-Isolation-Mechanism)
 
 链接放这了，**怕你们不会用**
 
