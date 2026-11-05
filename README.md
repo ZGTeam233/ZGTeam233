@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - [**toText** | 字符画/turtle绘画](https://github.com/ZGTeam233/toText)
 - [**synthpp** | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp)
 - [**WT01** | 朋友让我做的crack](https://github.com/ZGTeam233/WT01)
-- [**moneyless** | 人请记账本](https://github.com/ZGTeam233/moneyless)
+- [**moneyless** | 记账本](https://github.com/ZGTeam233/moneyless)
 - [**Changed_Creatures** | 以下项目的分支](https://github.com/ZGTeam233/Changed_Creatures)
   - [Changed_Creatures 模组](https://github.com/EyroIceDragon/Changed_Creatures)
 - [**WIM** | "世界观隔离"机制](https://github.com/ZGTeam233/Worldview-Isolation-Mechanism)
